@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Show Helper</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="favorite_tab">Favorites</string>
+    <string name="search_tab">Find Show</string>
+    <string name="downloaded_tab">Downloaded</string>
+</resources>
